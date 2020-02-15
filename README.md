@@ -1,8 +1,10 @@
 # TemplateEngine-EmployeeSummary
 
+Technologies Used:
 
-Instructions:
-Functional application.
-GitHub repository with a unique name and a README describing the project.
-User can use the CLI to generate an HTML page that displays information about their team.
-All tests must pass.
+-node -inquirer -jest
+
+Directions:
+
+Run command 'node app.js' in your terminal.
+Follow the prompts to select employee functions.
