@@ -1,5 +1,5 @@
 {
-  "name": "unit10hw",
+  "name": "hw10",
   "version": "1.0.0",
   "description": "OOP and testing for week 10 homework",
   "main": "app.js",
@@ -12,14 +12,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/stevetrilogy/unit10hw.git"
-  },
-  "author": "",
+    "url": "git+https://github.com/7thact/TemplateEngine-EmployeeSummary"
+  },   
+  "author": "Charles Cressey",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/stevetrilogy/unit10hw/issues"
+    "url": "https://github.com/7thact/TemplateEngine-EmployeeSummary"
   },
-  "homepage": "https://github.com/stevetrilogy/unit10hw#readme",
+  "homepage": "https://github.com/7thact/TemplateEngine-EmployeeSummary#readme",
   "dependencies": {
     "inquirer": "^6.3.1"
   },
